@@ -1,0 +1,20 @@
+p {
+  padding: 10px;
+  background-color: #7aeba5d5;
+}
+
+h1 {
+  color: #79662f;
+  background-color: #e79cdad5;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#first_div {
+  padding: 10px;
+  background-color: #15f8f8d5;
+}
+
+#second_div {
+  padding: 10px;
+  background-color: #f8bc15d5;
+}
